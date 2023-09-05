@@ -1,0 +1,2 @@
+#!/bin/bash
+cleaned_string=$(echo "$input_string" | tr -d 'cC')
